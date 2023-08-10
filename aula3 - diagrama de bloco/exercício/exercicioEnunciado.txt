@@ -1,0 +1,12 @@
+Fluxograma básico:
+1) Construa um diagrama de blocos que :
+• Leia a cotação do dólar
+• Leia um valor em dólares
+• Converta esse valor para Real
+• Mostre o resultado
+
+Fluxograma com decisão:
+1) Elabore um fluxograma que leia um número. Se positivo armazene-o em A, se for
+negativo, em B. No final mostrar o resultado
+2) Ler um número e verificar se ele é par ou ímpar. Quando for par armazenar esse valor em P e
+quando for ímpar armazená-lo em I. Exibir P e I no final do processamento.

@@ -1,0 +1,2 @@
+1) Escreva um algoritmo para ler um valor e escrever seu antecessor
+2)Escreva um algoritmo para ler as dimensões de um retângulo e calcular a área
