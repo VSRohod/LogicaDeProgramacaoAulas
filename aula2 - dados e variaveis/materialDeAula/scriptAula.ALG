@@ -1,4 +1,4 @@
-Algoritmo "aula1"
+Algoritmo "aula2"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Antonio Carlos Nicolodi 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
@@ -9,6 +9,55 @@ Var
 num, num2 , calculo, a, b, c : real
 Inicio
 //explicar sobre constantes e variaveis
+
+- Operadores de Atribuição
+
+    Os operadores de atribuição irão atribuir valores a dados.
+
+    exemplos:
+
+        x = y
+        x += y
+        x -= y
+        x /= y
+        x *= y
+        x %= y
+
+- Operadores de Comparação ou Relacionais
+
+    Os operadores de comparação irão comparar seus operandos e retornará um Booleano: true ou false.
+    
+    exemplos
+
+        x == y
+        x != y
+        x === y
+        x !== y
+        x > y
+        x >= y
+        x < y
+        x <= y
+
+- Operadores Aritmeticos
+     
+    Os operadores aritmeticos são os operadores de operações básicas, como: somar, subtrair, multiplicar  e dividir.
+
+        x + y
+        x - y
+        x * y
+        x / y
+        x++
+        x--
+
+- Operadores Lógicos
+
+    Os operadores lógicos utilizam valores Booleanos e retornam valores Booleanos.
+
+    exemplos
+
+        varUm && varDois - AND
+        varUm || varDois - OU
+        !varUm - Negação
 
 //operadores aritméticos
 //a <- 3

@@ -1,0 +1,45 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 19/06/2023
+Var
+   //correção
+   // 1
+   //numero , A , B : real
+
+   // 2
+   //numero , P , I : real
+
+   //explicacao
+   //imc, massa , altura : real
+
+   //explicacao 2 - SENAO SE
+   //nota, resultado : real
+
+   //CASE
+   //valor : real
+   //opcao, feedback : caractere
+Inicio
+   // 1
+   //escreval("Digite seu número")
+   //leia(numero)
+   //   se (numero >= 0) entao
+   //      A <- numero
+   //      escreva("O número ",A," é  um número positivo")
+   //   senao
+   //      B <- numero
+   //      escreva("O número ",B," é  um número negativo")
+   //   fimSe
+
+   // 2
+   //escreval("Digite seu número")
+   //leia(numero)
+   //se (numero % 2 = 0) entao
+   //   P <- numero
+   //   escreva("O número ",P," é  um número par")
+   //senao
+   //   I <- numero
+   //   escreva("O número ",I," é  um número impar")
+   //fimSe

@@ -1,2 +1,3 @@
-1) Escreva um algoritmo para ler um valor e escrever seu antecessor
-2)Escreva um algoritmo para ler as dimensões de um retângulo e calcular a área
+1) Escreva um agoritmo para ler o número total de eleitores de um município, o número de votos brancos,nulos e válidos. Calcular e escrever o percentual que cada um representa em relação ao total de eleitores
+2) faça um algoritmo que leia três notas de um aluno, calcule e escreva a média final deste aluno. Considerar que a média é ponderada e que o peso das notas é 2,3 e 5. Formula para o cálculo da média final é de: anexo na sala
+3) faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade dessa pessoa expressa em dias. Considerar ano com 365 dias e mês com 30 dias
