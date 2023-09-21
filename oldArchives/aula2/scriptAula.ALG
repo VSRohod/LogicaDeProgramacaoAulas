@@ -59,19 +59,6 @@ Inicio
         varUm || varDois - OU
         !varUm - Negação
 
-//operadores aritméticos
-//a <- 3
-//b <- 5
-//escreva(a + b)
-//troca
-//escreva(a - b)
-//troca
-//escreva(a * b)
-//troca
-//escreva(a / b)
-//troca
-//escreva(a ^ b)
-
 //explicar sobre operadores relacionais
 //a <- 3
 //b <- 5
