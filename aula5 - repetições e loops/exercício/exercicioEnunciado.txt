@@ -1,0 +1,9 @@
+1) Escreva um algoritmo que calcule e imprima a tabuada do 8 (1 a 10).
+
+2) Ler o número de alunos existentes em uma turma e, após isto, ler as notas destes alunos, calcular e escrever a média aritmética dessas notas lidas em um algoritmo
+
+3) Escreva um algoritmo para imprimir os 10 primeiros números inteiros maiores que 100 em fluxograma
+
+4) Uma loja está levantando o valor total de todas as mercadorias em estoque.Escreva um algoritmo que permita a entrada das seguintes informações: 
+a) o número total de mercadorias no estoque; 
+b) o valor de cada mercadoria. Ao final imprimir o valor total em estoque e a média de valor das mercadorias.
