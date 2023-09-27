@@ -1,7 +1,7 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 25/09/2023
 Var
@@ -20,7 +20,7 @@ fimProcedimento
 // procedimento gorjeta
 procedimento gorjeta()
 inicio
-   escreval("Você gostaria de fornecer uma gorjeta? (s/n)")
+   escreval("VocÃª gostaria de fornecer uma gorjeta? (s/n)")
    leia(gorjetaOpcao)
 
    se (gorjetaOpcao = "s")entao
@@ -65,9 +65,9 @@ enquanto (resposta = "sim") faca
       valorItem <- 30
       mensagemCompra()
    caso "F"
-      escreval("Operação cancelada!")
+      escreval("OperaÃ§Ã£o cancelada!")
    outroCaso
-      escreval("Operação inválida, tente novamente!")
+      escreval("OperaÃ§Ã£o invÃ¡lida, tente novamente!")
    fimEscolha
    //
    escreval("Deseja adicionar algo a mais? (sim/nao)")
@@ -78,9 +78,5 @@ gorjeta()
 escreval("---------------")
 escreval("O valor total da compra (+taxas): R$ ",valorTotal + valorGorjeta)
 escreval("---------------")
-
-
-
-
 
 Fimalgoritmo
