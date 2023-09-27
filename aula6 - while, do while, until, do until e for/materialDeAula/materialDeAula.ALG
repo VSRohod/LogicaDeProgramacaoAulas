@@ -1,31 +1,34 @@
 Algoritmo "semnome"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
+// Professor   : Antonio Carlos Nicolodi
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 27/09/2023
 Var
-contador, numero : inteiro
+   contador, contador2 : inteiro
+
 
 Inicio
-//WHILE
-contador <- 20
+   contador <- 20
 
-//enquanto (contador <= 10) faca
-// escreval("Funcionou a repetição!")
-// contador <- contador + 1
-//fimEnquanto
 
-//DO UNTIL
-//repita
-// escreval("Funcionou a repetição!")
-// contador <- contador + 1
-//ate(contador >= 10)
+   //WHILE (verifica e se verdadeiro, faz)
+   //enquanto (contador <= 10) faca
+   //   escreval("Uma mensagem super bacana!")
+   //   contador <- contador + 1
+      //contador++
+   //fimEnquanto
 
-//FOR
-leia(numero)
-para contador <- 1 ate numero faca
-  escreval("Funcionou a repetição!")
-fimPara
-
+   //DO UNTIL(faz, e verifica se falso, se sim repete o bloco)
+   repita
+      escreval("Uma mensagem super bacana!")
+      contador <- contador + 1
+   ate (contador >= 10)
+   
+   escreval("-----------")
+   
+   //FOR
+   para contador2 <- 1 ate 10 faca
+     escreval("Uma mensagem super bacana!")
+   fimPara
 Fimalgoritmo
