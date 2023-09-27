@@ -3,28 +3,30 @@ Algoritmo "semnome"
 // Professor   : Antonio Carlos Nicolodi 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 21/06/2023
+// Data atual  : 27/09/2023
 Var
-// Seção de Declarações das variáveis 
-estoquetotal, contador : inteiro
-valormercado, mercadoriatotal : real
+totalM , contador: inteiro
+valorM, valorMTotal, mediaValorM : real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-estoquetotal <- 0
-valormercado <- 0
 contador <- 1
-escreval ("digite o seu estoque total")
-leia(estoquetotal)
+escreval("Digite a quantidade de produtos do seu estoque!")
+leia(totalM)
 
-enquanto (contador <= estoquetotal) faca
-  escreval ("Digite o valor da mercadoria")
-  leia(valormercado)
-  mercadoriatotal <- mercadoriatotal + valormercado
-  contador <- contador + 1
-  fimenquanto
+enquanto (contador <= totalM) faca
+escreval("Digite o valor da mercadoria ", contador," :")
+leia(valorM)
+escreval("------")
+escreval("Valor da mercadoria ",contador, " definido para ",valorM," reais")
+escreval("------")
 
-escreval("O estoque total e De ", estoquetotal)
-escreval("Logo O Valor do Estoque total é de ", mercadoriatotal)
+valorMTotal <- valorMTotal + valorM
+
+contador <- contador + 1
+fimEnquanto
+
+escreval("Numero total do estoque: ",totalM)
+escreval("O seu estoque vale: R$ ",valorMTotal)
+escreval("A media do valor do seu estoque é de : R$ ",valorMTotal/totalM:9:2)
 
 Fimalgoritmo

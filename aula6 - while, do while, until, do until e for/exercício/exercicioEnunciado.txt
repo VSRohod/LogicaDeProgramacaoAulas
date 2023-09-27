@@ -1,0 +1,12 @@
+1) Escreva um algoritmo para ler 10 números e ao final da leitura escrever a soma total dos 10
+números lidos.
+
+
+2) Faça um algoritmo para ler uma quantidade de números e a seguir ler cada um de forma respectiva. Depois de ler todos os números o algoritmo deve apresentar na tela o maior dos números lidos
+
+
+3) Faça um algoritmo que conte de 1 a 100 e a cada múltiplo de 10 emita uma mensagem: “Múltiplo de 10”.
+
+
+4) Faça um algoritmo que gera e escreve os números ímpares dos números lidos entre
+100 e 200.
