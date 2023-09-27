@@ -46,7 +46,6 @@ escreval("Digite o segundo numero")
 leia(numero2)
 
 resultado <- numero1 % numero2
-//
 escreval("O resultado da operação é de: ",resultado)
 
 //OPERADORES ARITMETICOS

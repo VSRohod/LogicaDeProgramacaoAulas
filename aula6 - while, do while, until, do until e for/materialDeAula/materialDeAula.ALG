@@ -7,7 +7,6 @@ Algoritmo "semnome"
 Var
 contador, numero : inteiro
 
-
 Inicio
 //WHILE
 contador <- 20
@@ -28,6 +27,5 @@ leia(numero)
 para contador <- 1 ate numero faca
   escreval("Funcionou a repetição!")
 fimPara
-
 
 Fimalgoritmo

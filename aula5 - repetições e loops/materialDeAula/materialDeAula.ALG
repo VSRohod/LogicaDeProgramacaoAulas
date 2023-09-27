@@ -7,7 +7,6 @@ Algoritmo "semnome"
 Var
 contador : inteiro
 
-
 Inicio
 // REPETICAO  WHILE
 contador <- 1
@@ -15,7 +14,5 @@ enquanto (contador <= 10) faca
  escreval("Esta é uma mensagem repetida",contador," vezes")
  contador <- contador + 1
 fimEnquanto
-
-
 
 Fimalgoritmo
