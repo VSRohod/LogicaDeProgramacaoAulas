@@ -1,0 +1,6 @@
+1) Uma loja está levantando o valor total 3 mercadorias em estoque. Escreva um algoritmo que permita a entrada das seguintes informações:
+a) o valor de cada mercadoria. Ao final imprimir o valor total em estoque e a média de valor das mercadorias.
+
+b)E AGORA ele também salvará os valores de cada mercadoria e seu nome!
+
+2)Faça um algoritmo para ler 10 números e armazenar em um vetor, após a leitura de todos eles, o algoritmo deverá escrever eles de forma inversa (Desconsiderando os valores dos números)
