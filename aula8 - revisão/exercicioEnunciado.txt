@@ -1,0 +1,12 @@
+1. Ler três números diferentes e mostrá-los em ordem crescente. Idem para ordem
+decrescente.
+
+2.Ler 4 números inteiros correspondentes  a números apostados em uma loteria. Ler os 3 números sorteados. Informar quantos acertos o apostador fez.
+
+3. Fazer uma calculadora que aceite todas as 4 operações (+,-,*,/)
+
+4. Faça um programa utilizando função ou procedimento que leia 5 números e informe quantos desses números  são maiores que 10.
+
+5. Faça um sistema de login onde o usuario poderá logar em um programa se usuario e senha forem "ADM", faça o login, senão volte uma mensagem de erro
+
+6. faça o cadastro de 3 usuarios com os vetores, nomeUsuario e senhaUsuario
