@@ -1,5 +1,5 @@
 # LogicaDeProgramacaoAulas
-Material utilizado em sala de aula 🚀
+Material utilizado em sala de aula de Lógica de programação 🚀
 
 ![LogicalMrSpockGIF](https://github.com/VSRohod/LogicaDeProgramacaoAulas/assets/89645335/0853248c-eee0-4526-af15-e429195d6293)
 
