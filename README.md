@@ -1,7 +1,15 @@
 # LogicaDeProgramacaoAulas
- Material utilizado em sala de aula
+Material utilizado em sala de aula 🚀
 
-aulas status:
+![LogicalMrSpockGIF](https://github.com/VSRohod/LogicaDeProgramacaoAulas/assets/89645335/0853248c-eee0-4526-af15-e429195d6293)
+
+<h3>Programas utilizados:</h3>
+<ul>
+ <li>VisualG</li>
+ <li>LucidChart</li>
+</ul>
+
+Aulas status:
 <ul>
 <li>🟢Aula 1 Entrada e saída de dados - okay </li>
 <li>🟢Aula 2 Dados e variáveis - okay </li>
