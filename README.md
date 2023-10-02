@@ -9,7 +9,7 @@ Material utilizado em sala de aula 🚀
  <li>LucidChart</li>
 </ul>
 
-Aulas status:
+<h3>Aulas status:</h3> 
 <ul>
 <li>🟢Aula 1 Entrada e saída de dados - okay </li>
 <li>🟢Aula 2 Dados e variáveis - okay </li>
