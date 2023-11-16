@@ -21,5 +21,5 @@ Material utilizado em sala de aula de Lógica de programação 🚀
 <li>🔴Aula 8 Matriz - Desenvolver material e atividade</li>
 <li>🟢Aula 9 Revisão - okay </li>
 <li>🟡Aula 10 Prova - Precisa colocar as soluções dos exercícios </li>
-<li>🔴Aula 11 Recuperação - Precisa montar a prova e sua solução </li>
+<li>🟢Aula 11 Recuperação - Precisa montar a prova e sua solução </li>
 </ul>
